@@ -6,13 +6,14 @@
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=Podman&logoColor=black"/>
 <br>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
 <br>
 <h2 align="center"><b>📚 sub_stack 📚</b></h2>
@@ -30,10 +31,13 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Mysql-009EDB?style=for-the-badge&logo=Mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
 </p>
 
 ## 진행중인 활동
-* 강화학습 프로젝트 (사용자 맞춤형 메뉴 추천 알고리즘)
+* fast api를 통한 llm text generation, tts service 개발 및 유지보수 (폐쇄망)
 ## 프로젝트
 ### 
 
@@ -89,8 +93,8 @@
 
 <h2 align="center"><b>My Stats</b></h2>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=myNameIsYoonSungJang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yoonsung's github stats" /> | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jang0648)](https://solved.ac/jang0648/) |
-| ------------- | ------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jang-YoonSung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yoonsung's github stats" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jang0648)](https://solved.ac/jang0648/) |
+| ------------- | ------------- | ------------- | 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmyNameIsYoonSungJang&count_bg=%2300ABB3&title_bg=%233C4048&icon=staticman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
