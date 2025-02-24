@@ -54,20 +54,15 @@
 > - python, CNN
 > - 2023.05 ~ 2023.06
 - 한림대학교 딥러닝 기초 과목 프로젝트
-### 땅파기 게임
-> - Unity, C#
-> - 2022.10 ~ 2022.11
-- `굴착소년 쿵`에서 영감을 받아 만든 게임 [개인 프로젝트]
-- 땅 밑에 있는 광물을 캐서 돈을 모아 무기를 만든 후 괴물을 처치하는 게임
 ### 신조어 공부 웹사이트
 > - Html, Css, Js, NodeJs
 > - 2022.11 ~ 2022.12
 - 부모님이 신조어를 잘 모르는 경우가 많아 제작한 웹 사이트 [개인 프로젝트]
 
-## 연구실
+## 학부연구생
 |date|content|Location|
 |------|-----|--------|
-|December.2022.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
+|2022.12~2023.12|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
 
 ## 수상경력
 > - [금상 1위]2022년 2학기 SW사업단 주최 SW week, 완내스 파이썬 경연대회
@@ -90,6 +85,7 @@
 > - [2023.06.28] 강원SW페스티벌 - 원주 연세대 미래캠퍼스 코딩 경진대회
 > - [2023.07.03 ~ 2023.07.28] Dacon SW중심대학 공동 AI 경진대회 2023 - 위성 이미지 건물 영역 분할 (Satellite Image Building Area Segmentation)
 > - [2023.07.24 ~ 2023.08.31] 네이버 소프트웨어야 놀자 대학생 멘토 2023 (경상권 초등교육 AI 멘토링)
+> - [2024.07 ~ 2024.12] 솔루게이트 인턴
 
 <h2 align="center"><b>My Stats</b></h2>
 
