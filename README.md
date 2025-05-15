@@ -37,8 +37,8 @@
 </p>
 
 ## 진행중인 활동
-* [llm text generation, tts service 개발 및 유지보수](https://github.com/Jang-YoonSung/3shot-prompt-melo-tts)
-* [translation 비동기 번역 서비스 개발 및 유지보수](https://github.com/Jang-YoonSung/fastapi-translate-service)
+* [fast api - llm text generation, tts service 개발 및 유지보수](https://github.com/Jang-YoonSung/3shot-prompt-melo-tts)
+* [fast api, celery - translation 비동기 번역 서비스 개발 및 유지보수](https://github.com/Jang-YoonSung/fastapi-translate-service)
 ## 프로젝트
 ### 
 
