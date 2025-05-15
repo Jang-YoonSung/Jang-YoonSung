@@ -37,7 +37,8 @@
 </p>
 
 ## 진행중인 활동
-* fast api를 통한 llm text generation, tts service 개발 및 유지보수 (폐쇄망)
+* llm text generation, tts service 개발 및 유지보수
+* translation 비동기 번역 서비스 개발 및 유지보수
 ## 프로젝트
 ### 
 
