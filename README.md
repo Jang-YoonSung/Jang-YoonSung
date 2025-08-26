@@ -56,7 +56,7 @@ LLM/TTS 모델 파인튜닝, 프롬프트 엔지니어링까지 <br>
 ---
 
 ### 📝 T-Gen (2025.02 ~ 2025.03)
-- 키워드 기반 **문장 생성 서비스** (폐쇄망)  
+- 키워드 기반 **문장 생성 서비스** (on-premise)  
 - Llama 기반 Few-shot prompting 적용  
 - 음성 합성을 위한 TTS 서비스 통합  
 **Tech:** `FastAPI` · `Llama3.2` · `MeloTTS`
