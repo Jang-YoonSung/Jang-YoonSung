@@ -5,9 +5,9 @@
 Docker, FastAPI, Celery 기반 비동기 서버 구축부터 <br>
 LLM/TTS 모델 파인튜닝, 프롬프트 엔지니어링까지 <br>
 실제 기업 서비스에 적용한 경험이 있습니다.  
-<br>
-<b>AI 서비스 개발</b>에 집중하며, <br>
-<b>백엔드 기본기</b>도 함께 보유하고 있습니다.
+<br><br>
+<b>LLM 기반 AI 서비스 개발, 서버 관리 및 유지보수</b><br>
+지식을 겸비한 기본기가 탄탄한 개발자입니다.
 </p>
 
 ---
@@ -23,7 +23,7 @@ LLM/TTS 모델 파인튜닝, 프롬프트 엔지니어링까지 <br>
 <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-005AF0?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
