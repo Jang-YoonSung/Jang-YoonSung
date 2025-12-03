@@ -41,16 +41,28 @@ LLM/TTS 모델 파인튜닝, 프롬프트 엔지니어링까지 <br>
 - 키워드 기반 문장 생성 및 음성 생성 서비스 개발  
 - 회의록 요약 서비스 고도화
 - 영한/한영 비동기 번역 서비스 개발
-- 사내 고유명사/약어 인식을 위한 데이터셋 구축  
+- 사내 고유명사/약어 인식을 위한 데이터셋 구축
+
+<h2 align="center"><b>🚀 Projects</b></h2>
 
 ---
 
-<h2 align="center"><b>🚀 Projects</b></h2>
+### ✈️ Trip Agent Project (2025.10 ~ 2025.11)
+
+- 멀티 에이전트 기반 all-in-one 여행 플래너 서비스
+- 숙소/항공 데이터 수집 에이전트 구현  
+- Airbnb MCP Tool 연동으로 실데이터 기반 숙소 추천  
+- Google Flights (SerpApi) 기반 항공편 조회 MCP Custom Tool 개발
+  
+**Tech:** `Python` `FastAPI` `AsyncIO` `Docker` `OpenAI API` `MCP` `SerpApi` `Agno`
+
+---
 
 ### 🎙 Melo-TTS Training (2025.05 ~ 2025.06)
 - Melo-TTS 한국어 모델 **Fine-tuning**  
 - Docker 기반 학습 환경 구축  
-- AI Hub 데이터 수집 및 정제  
+- AI Hub 데이터 수집 및 정제
+  
 **Tech:** `MeloTTS` · `Docker` · `PyTorch`
 
 ---
@@ -58,7 +70,8 @@ LLM/TTS 모델 파인튜닝, 프롬프트 엔지니어링까지 <br>
 ### 📝 T-Gen (2025.02 ~ 2025.03)
 - 키워드 기반 **문장 생성 서비스** (on-premise)  
 - Llama 기반 Few-shot prompting 적용  
-- 음성 합성을 위한 TTS 서비스 통합  
+- 음성 합성을 위한 TTS 서비스 통합
+  
 **Tech:** `FastAPI` · `Llama3.2` · `MeloTTS`
 
 ---
@@ -66,21 +79,24 @@ LLM/TTS 모델 파인튜닝, 프롬프트 엔지니어링까지 <br>
 ### 🌐 Translation_with_Celery (2025.03 ~ 2025.05)
 - Celery 기반 **비동기 번역 서비스** 구축  
 - Madlad-400 기반 다국어 번역 모델 적용  
-- RabbitMQ 메시지 브로커 연동  
+- RabbitMQ 메시지 브로커 연동
+  
 **Tech:** `FastAPI` · `Celery` · `RabbitMQ` · `Madlad-400`
 
 ---
 
 ### 📊 Duckling — Capstone Design (2024.03 ~ 2024.05)
 - 뉴스 감정분석 + 시계열 데이터를 활용한 주가 예측  
-- 5인 팀 프로젝트 (AI 2, 백엔드 1, 프론트 2)  
+- 5인 팀 프로젝트 (AI 2, 백엔드 1, 프론트 2)
+  
 **Tech:** `PyTorch` · `BERT` · `Prophet` · `GoogleNews`
 
 ---
 
 ### 🔍 Rag-Practice (2025.03 ~ 2025.05)
 - **LangChain + FAISS 기반 문서 검색 시스템** 구축  
-- BM25 Retriever, hybrid search, reranking(MMR) 적용  
+- BM25 Retriever, hybrid search, reranking(MMR) 적용
+  
 **Tech:** `LangChain` · `FAISS` · `BM25`
 
 ---
