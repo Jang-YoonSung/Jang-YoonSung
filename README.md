@@ -56,6 +56,8 @@ GPU 공유 환경에서의 리소스 트러블슈팅, 라이브러리 버그 패
 - Triton Inference Server + TensorRT-LLM 기반 STT 추론 서버 구축
   * 동시 요청 처리량 최대 2.8배, 단건 처리속도 최대 4.9배 개선
 - 개별 LLM 파이프라인 운영 방식을 vLLM 기반 통합 서빙 시스템으로 전환
+  * 단일 요청 기준 (500 tokens) 20.7 tok/s(hf_pipeline) 156 tok/s(vllm) **약 7.5배** 향상
+  * 동시 요청 4개 기준 (2,000 tokens 합산) 20.5 tok/s(hf_pipeline) 557 tok/s(vllm) **약 27배** 향상
   
 ### 🏢 솔루게이트 — <i>LLM Engineer</i>
 **2024.07 ~ 2025.07**
